@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The "Dashboard UI using ReactJS" project is a web development project aimed at creating a dynamic and user-friendly dashboard interface using the ReactJS library. ReactJS, a popular JavaScript library, is known for its efficiency and flexibility in building modern web applications. This project leverages its capabilities to construct an interactive and visually appealing dashboard for a wide range of applications.
 
 ## Available Scripts
 
